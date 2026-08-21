@@ -46,8 +46,7 @@ Extracts information quickly
 Integrates with Google Docs
 Creates a reusable automation workflow
 Can be extended with additional AI services and APIs
-8. GitHub Contents
-Your repository currently contains:
+8. GitHub Contents:
 AI-Resume-Automation/
 │
 ├── README.md
